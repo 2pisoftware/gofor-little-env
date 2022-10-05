@@ -1,4 +1,4 @@
-module github.com/gofor-little/env
+module github.com/2pisoftware/gofor-little-env
 
 go 1.17
 
