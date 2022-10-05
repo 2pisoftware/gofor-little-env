@@ -4,8 +4,8 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/gofor-little/env)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/gofor-little/env/main/LICENSE)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/gofor-little/env/CI)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gofor-little/env)](https://goreportcard.com/report/github.com/gofor-little/env)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/gofor-little/env)](https://pkg.go.dev/github.com/gofor-little/env)
+[![Go Report Card](https://goreportcard.com/badge/github.com/2pisoftware/gofor-little-env)](https://goreportcard.com/report/github.com/2pisoftware/gofor-little-env)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/2pisoftware/gofor-little-env)](https://pkg.go.dev/github.com/2pisoftware/gofor-little-env)
 
 ### Introduction
 * Read from and write to .env files
@@ -16,7 +16,7 @@
 ```go
 package main
 
-import "github.com/gofor-little/env"
+import env "github.com/2pisoftware/gofor-little-env"
 
 func main() {
 	// Load an .env file and set the key-value pairs as environment variables.

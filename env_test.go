@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gofor-little/env"
+	env "github.com/2pisoftware/gofor-little-env"
 	"github.com/stretchr/testify/require"
 )
 
